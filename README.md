@@ -1,17 +1,17 @@
 ## Patrick Fanella
 
-Full-stack developer with a strong focus on building modern web applications, scalable systems, and clean developer experiences. I work across frontend and backend, with particular interest in TypeScript, React, Go, PostgreSQL, and product-oriented engineering.
+Full-stack developer focused on building modern web applications, scalable systems, and clean developer experiences. I work across frontend and backend with an emphasis on TypeScript, React, Go, PostgreSQL, and product-oriented engineering.
 
-I’m drawn to projects that require both technical depth and practical judgment—designing maintainable systems, improving workflows, and delivering software that feels polished for users and sustainable for teams.
+I care about building software that is reliable, maintainable, and thoughtful from both a technical and user perspective. My work spans interfaces, APIs, tooling, and full-stack systems, with a strong interest in architecture, usability, and long-term quality.
 
-My GitHub reflects a mix of personal projects, experimentation, and applied engineering work. I’m currently focused on opportunities where I can contribute as a senior engineer, take ownership of meaningful product and technical decisions, and collaborate on ambitious, well-built software.
+My GitHub includes personal projects, experiments, and applied engineering work that reflect how I approach problem-solving, system design, and product development.
 
 ### Core stack
 TypeScript • React • Go • Tailwind CSS • PostgreSQL
 
 ### Open to
-Senior Software Engineer • Senior Full-Stack Engineer • Product Engineer • Platform / Developer Tools
+Software Engineer • Full-Stack Engineer • Product Engineer
 
-### Links
+### Contact
 - Portfolio: [patrickfanella.co](https://patrickfanella.co)
 - Email: `Fanella.Patrick@gmail.com`
