@@ -1,17 +1,11 @@
 ## Patrick Fanella
 
-Full-stack developer focused on building modern web applications, scalable systems, and clean developer experiences. I work across frontend and backend with an emphasis on TypeScript, React, Go, PostgreSQL, and product-oriented engineering.
+Full-stack engineer building AI agent platforms, GPU transcription pipelines, 3D graph visualization tools, and on-chain provenance systems — production software across Go, React, Python, and TypeScript, from first commit to monitored deployment.
 
-I care about building software that is reliable, maintainable, and thoughtful from both a technical and user perspective. My work spans interfaces, APIs, tooling, and full-stack systems, with a strong interest in architecture, usability, and long-term quality.
+**What I build:** Multi-agent AI systems, real-time collaborative platforms, search infrastructure, and developer tooling. The interesting problems live where systems meet — search pipelines feeding frontends, AI agents coordinating through WebSockets, smart contracts verified by browser extensions.
 
-My GitHub includes personal projects, experiments, and applied engineering work that reflect how I approach problem-solving, system design, and product development.
+**Core stack:** Go · React · TypeScript · PostgreSQL · Python · Docker · Kubernetes
 
-### Core stack
-TypeScript • React • Go • Tailwind CSS • PostgreSQL
+**Open to:** Software Engineer, Full-Stack Engineer, Backend Engineer, Product Engineer
 
-### Open to
-Software Engineer • Full-Stack Engineer • Product Engineer
-
-### Contact
-- Portfolio: [patrickfanella.co](https://patrickfanella.co)
-- Email: `Fanella.Patrick@gmail.com`
+📍 Chicago, IL · [patrickfanella.co](https://patrickfanella.co) · [fanella.patrick@gmail.com](mailto:fanella.patrick@gmail.com)
