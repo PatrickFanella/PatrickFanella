@@ -8,4 +8,4 @@ Full-stack engineer building AI agent platforms, GPU transcription pipelines, 3D
 
 **Open to:** Software Engineer, Full-Stack Engineer, Backend Engineer, Product Engineer
 
-📍 Chicago, IL · [patrickfanella.co](https://patrickfanella.co) · [fanella.patrick@gmail.com](mailto:fanella.patrick@gmail.com)
+📍 Chicago, IL · [patrickfanella.co](https://patrickfanella.co) · [patrick@subcult.tv](mailto:patrick@subcult.tv)
