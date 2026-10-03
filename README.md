@@ -10,16 +10,42 @@ At DeliverZero, I built inventory, returns, and partner-integration workflows ac
 - [HasanAra](https://github.com/PatrickFanella/hasanara) — Citation-first video research platform with FastAPI, React, GPU-backed transcription, durable ingestion, PostgreSQL, and OpenSearch.
 - [Patchwork](https://github.com/PatrickFanella/patchwork) — AT Protocol-native mutual-aid prototype with privacy-preserving geospatial discovery, real-time indexing, coordination workflows, moderation, and accessible interfaces.
 
+### Selected engineering work
+
+My public repositories cover product interfaces, backend services, search, media processing, and research data. These copies preserve project history; development, issues, and CI live on [Subcult Gitea](https://git.subcult.tv/subculture-collective).
+
+| Project | Problem and implementation | Scope and technical reading |
+| --- | --- | --- |
+| [Left Field](https://github.com/PatrickFanella/left-field) | Seat-level election research that keeps public records, source provenance, provisional scores, and missing evidence separate. | Active development; scores are research notes, not forecasts. [Architecture](https://github.com/PatrickFanella/left-field/blob/main/ARCHITECTURE.md) · [Development and fixtures](https://github.com/PatrickFanella/left-field/blob/main/DEVELOPMENT.md) |
+| [Rekolekt](https://github.com/PatrickFanella/rekolekt) | Self-hosted recording archives with timestamped transcripts, text search, and passage links back to source video. HasanAra is a deployment of the shared core. | Machine transcripts require checking against the recording. [Branding and deployment](https://github.com/PatrickFanella/rekolekt/blob/main/docs/deployment/client-branding.md) · [Development](https://github.com/PatrickFanella/rekolekt/blob/main/DEVELOPMENT.md) |
+| [Undertow](https://github.com/PatrickFanella/undertow) | A browser editor combining audio visualization, artwork, timed lyrics, and local video encoding through a shared preview/export renderer. | Local export depends on browser codecs and hardware. Cloud rendering is in testing; paid billing is off. [Rendering](https://github.com/PatrickFanella/undertow/blob/main/docs/rendering.md) · [Development](https://github.com/PatrickFanella/undertow/blob/main/DEVELOPMENT.md) |
+| [Deadweb Relay](https://github.com/PatrickFanella/deadweb-relay) | A small Go website with HTML, text, JSON, feeds, public notes, and append-only storage. | An HTTP and discovery experiment with inspectable storage. [Implementation and protocol](https://github.com/PatrickFanella/deadweb-relay#useful-http-behavior) · [Live site](https://www2.onnwee.me/) |
+
+<details>
+<summary>Product screenshots</summary>
+
+**clpr — clip discovery**
+
+![clpr clip discovery interface](https://subcult.tv/screenshots/clpr-home-1440.webp)
+
+**Undertow — layered music editor**
+
+![Undertow layered music editor](https://subcult.tv/screenshots/undertow-editor-1440.webp)
+
+**HasanAra — a Rekolekt archive**
+
+![HasanAra recording archive](https://subcult.tv/screenshots/hasanara-home-1440.webp)
+
+</details>
+
 ### More selected work
 
-- [Switchyard](https://github.com/PatrickFanella/switchyard) — Self-hosted automation runtime for durable workflows, model routing, coding-agent execution, and operator controls.
-- [Subcults](https://github.com/PatrickFanella/subcults) — Privacy-first platform for discovering local music scenes, events, tours, and live audio.
-- [Clustr](https://github.com/PatrickFanella/clustr) and [Clustr Galaxy](https://github.com/PatrickFanella/clustr-galaxy) — Community-graph infrastructure with interactive 2D/3D visualization and a Unity exploration client.
+- [Clustr](https://github.com/PatrickFanella/clustr) — Community-graph infrastructure with interactive 2D/3D visualization and a Unity exploration client.
 - [Subcult OS](https://github.com/PatrickFanella/subcult-os) — Operations platform for events, ticketing, mobile check-in, staffing, and reporting.
 
 ### Developer tooling
 
-I also publish tools and plugins for AI-assisted development, local-first workflows, and self-hosted systems, including [Blacktower](https://github.com/PatrickFanella/blacktower) and [Super Productivity MCP](https://github.com/PatrickFanella/super-productivity-mcp).
+I also publish tools and plugins for AI-assisted development, local-first workflows, and self-hosted systems, including [Super Productivity MCP](https://github.com/PatrickFanella/super-productivity-mcp).
 
 **Core stack:** Go · Python · TypeScript · React · PostgreSQL · PostGIS · OpenSearch · Docker · Kubernetes
 
