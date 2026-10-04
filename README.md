@@ -1,4 +1,10 @@
-## Patrick Fanella
+[![Patrick__eff — Software. Sound. Independent culture.](assets/banner.png)](https://patrickfanella.co)
+
+# Patrick Fanella / Patrick__eff
+
+**Software. Sound. Independent culture.**
+
+I build SUBCULT and software for independent culture, alongside music and developer tools. Based in Chicago.
 
 Senior full-stack and backend engineer who owns operational products from data modeling and API design through accessible interfaces, production delivery, and ongoing operations.
 
@@ -8,7 +14,7 @@ At DeliverZero, I built inventory, returns, and partner-integration workflows ac
 
 - [clpr](https://github.com/PatrickFanella/clpr) — Deployed Twitch discovery platform with a Go API, React client, PostgreSQL, hybrid search, queue-backed processing, moderation, and audit controls.
 - [HasanAra](https://github.com/PatrickFanella/hasanara) — Citation-first video research platform with FastAPI, React, GPU-backed transcription, durable ingestion, PostgreSQL, and OpenSearch.
-- [Patchwork](https://github.com/PatrickFanella/patchwork) — AT Protocol-native mutual-aid prototype with privacy-preserving geospatial discovery, real-time indexing, coordination workflows, moderation, and accessible interfaces.
+- [Patchwork](https://github.com/PatrickFanella/patchwork) — Pre-alpha AT Protocol demonstration of local requests, offers and coordination, with geospatial discovery, indexing, moderation and accessible interfaces.
 
 ### Selected engineering work
 
@@ -41,11 +47,16 @@ My public repositories cover product interfaces, backend services, search, media
 ### More selected work
 
 - [Clustr](https://github.com/PatrickFanella/clustr) — Community-graph infrastructure with interactive 2D/3D visualization and a Unity exploration client.
-- [Subcult OS](https://github.com/PatrickFanella/subcult-os) — Operations platform for events, ticketing, mobile check-in, staffing, and reporting.
+- [Subcult OS](https://github.com/PatrickFanella/subcult-os) — Event operations software in development for planning, staffing, free reservations, door check-in and reporting.
 
 ### Developer tooling
 
-I also publish tools and plugins for AI-assisted development, local-first workflows, and self-hosted systems, including [Super Productivity MCP](https://github.com/PatrickFanella/super-productivity-mcp).
+I also build tools for development, music and everyday workflows:
+
+- [Obsidian Metronome + Tuner](https://git.subcult.tv/PatrickFanella/obsidian-plugin-metronome-tuner) — timing and chromatic tuning inside Obsidian.
+- [Omarchy Monitor Bar](https://git.subcult.tv/PatrickFanella/omarchy-monitor-bar) — separate bar layouts for connected monitors.
+- [Shelfish](https://git.subcult.tv/PatrickFanella/omarchy-plugin-shelfish) — collapsible groups of bar widgets.
+- [Super Productivity bar integration](https://git.subcult.tv/PatrickFanella/omarchy-superproductivity) and [MCP integration](https://git.subcult.tv/PatrickFanella/super-productivity-mcp).
 
 **Core stack:** Go · Python · TypeScript · React · PostgreSQL · PostGIS · OpenSearch · Docker · Kubernetes
 
