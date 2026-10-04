@@ -2,11 +2,9 @@
 
 # Patrick Fanella / Patrick__eff
 
-**Software. Sound. Culture.**
+Senior full-stack and backend engineer based in Chicago. I build SUBCULT, software for independent culture, and tools for music and everyday workflows.
 
-I build SUBCULT and software for independent culture, alongside music and developer tools. Based in Chicago.
-
-Senior full-stack and backend engineer who owns operational products from data modeling and API design through accessible interfaces, production delivery, and ongoing operations.
+**Open to senior full-stack, backend and product engineering roles.** [Portfolio](https://patrickfanella.co) · [Resume](https://patrickfanella.co/resume) · [LinkedIn](https://www.linkedin.com/in/patrick-fanella/) · [Email](mailto:patrick@subcult.tv)
 
 At DeliverZero, I built inventory, returns, and partner-integration workflows across three markets, reducing manual operational work by approximately 25%. My independent work spans deployed Go and Python services, PostgreSQL and search, GPU-backed media pipelines, privacy-aware social products, self-hosted automation, and interactive 3D visualization.
 
