@@ -1,9 +1,11 @@
 {
   "brand": "patrick__eff",
-  "guide": "branding/2026-10-01-packs/brands/patrick__eff/GUIDE.md",
-  "claims": "content/social/Product Claims Register.md",
+  "direction": "Patch / routed signal",
+  "selection": "Owner selected October 2, 2026",
+  "guide": "studio/branding/patrick/GUIDE.md",
+  "source_pack": "studio/branding/library/brands/patrick__eff",
   "files": {
-    "banner.png": "ea096d1ea8cf9ea6be95dba06a276abd3b016b8e000b85f76bcfea67785f39a7",
-    "avatar.png": "331f364c916727200b3fded675b4a4a03511c8b97157fdda56716b6d50daa83c"
+    "banner.png": "d54c40729ed449f7147157146157818ad21513f3e1d9cd46efb2cde033069b0a",
+    "avatar.png": "82b211af74868b3f402698b7dd6b150ac271a7edaa43429cb7a8b60771395299"
   }
 }

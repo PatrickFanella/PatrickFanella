@@ -1,8 +1,8 @@
-[![Patrick__eff — Software. Sound. Independent culture.](assets/banner.png)](https://patrickfanella.co)
+[![Patrick__eff — Software. Sound. Culture.](assets/banner.png)](https://patrickfanella.co)
 
 # Patrick Fanella / Patrick__eff
 
-**Software. Sound. Independent culture.**
+**Software. Sound. Culture.**
 
 I build SUBCULT and software for independent culture, alongside music and developer tools. Based in Chicago.
 
