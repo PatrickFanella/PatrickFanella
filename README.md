@@ -2,28 +2,19 @@
 
 # Patrick Fanella / Patrick__eff
 
-Senior full-stack and backend engineer based in Chicago. I build SUBCULT, software for independent culture, and tools for music and everyday workflows.
+I'm Patrick Fanella, a senior full-stack and backend engineer in Chicago. I build web products and the systems behind them, with a focus on search, media, and tools for independent culture.
 
-**Open to senior full-stack, backend and product engineering roles.** [Portfolio](https://patrickfanella.co) · [Resume](https://patrickfanella.co/resume) · [LinkedIn](https://www.linkedin.com/in/patrick-fanella/) · [Email](mailto:patrick@subcult.tv)
+At DeliverZero, I built inventory, returns, and partner integrations across three markets, reducing manual operational work by approximately 25%. Through SUBCULT, I build products for discovering live content, researching video archives, making music visuals, and coordinating communities.
 
-At DeliverZero, I built inventory, returns, and partner-integration workflows across three markets, reducing manual operational work by approximately 25%. My independent work spans deployed Go and Python services, PostgreSQL and search, GPU-backed media pipelines, privacy-aware social products, self-hosted automation, and interactive 3D visualization.
+**Open to senior full-stack, backend, and product engineering roles.**
+
+[Portfolio](https://patrickfanella.co) · [Resume](https://patrickfanella.co/resume) · [LinkedIn](https://www.linkedin.com/in/patrick-fanella/) · [Email](mailto:patrick@subcult.tv)
 
 ### Featured work
 
-- [clpr](https://github.com/PatrickFanella/clpr) — Deployed Twitch discovery platform with a Go API, React client, PostgreSQL, hybrid search, queue-backed processing, moderation, and audit controls.
-- [HasanAra](https://github.com/PatrickFanella/hasanara) — Citation-first video research platform with FastAPI, React, GPU-backed transcription, durable ingestion, PostgreSQL, and OpenSearch.
-- [Patchwork](https://github.com/PatrickFanella/patchwork) — Pre-alpha AT Protocol demonstration of local requests, offers and coordination, with geospatial discovery, indexing, moderation and accessible interfaces.
-
-### Selected engineering work
-
-My public repositories cover product interfaces, backend services, search, media processing, and research data. These copies preserve project history; development, issues, and CI live on [Subcult Gitea](https://git.subcult.tv/subculture-collective).
-
-| Project | Problem and implementation | Scope and technical reading |
-| --- | --- | --- |
-| [Left Field](https://github.com/PatrickFanella/left-field) | Seat-level election research that keeps public records, source provenance, provisional scores, and missing evidence separate. | Active development; scores are research notes, not forecasts. [Architecture](https://github.com/PatrickFanella/left-field/blob/main/ARCHITECTURE.md) · [Development and fixtures](https://github.com/PatrickFanella/left-field/blob/main/DEVELOPMENT.md) |
-| [Rekolekt](https://github.com/PatrickFanella/rekolekt) | Self-hosted recording archives with timestamped transcripts, text search, and passage links back to source video. HasanAra is a deployment of the shared core. | Machine transcripts require checking against the recording. [Branding and deployment](https://github.com/PatrickFanella/rekolekt/blob/main/docs/deployment/client-branding.md) · [Development](https://github.com/PatrickFanella/rekolekt/blob/main/DEVELOPMENT.md) |
-| [Undertow](https://github.com/PatrickFanella/undertow) | A browser editor combining audio visualization, artwork, timed lyrics, and local video encoding through a shared preview/export renderer. | Local export depends on browser codecs and hardware. Cloud rendering is in testing; paid billing is off. [Rendering](https://github.com/PatrickFanella/undertow/blob/main/docs/rendering.md) · [Development](https://github.com/PatrickFanella/undertow/blob/main/DEVELOPMENT.md) |
-| [Deadweb Relay](https://github.com/PatrickFanella/deadweb-relay) | A small Go website with HTML, text, JSON, feeds, public notes, and append-only storage. | An HTTP and discovery experiment with inspectable storage. [Implementation and protocol](https://github.com/PatrickFanella/deadweb-relay#useful-http-behavior) · [Live site](https://www2.onnwee.me/) |
+- [clpr](https://github.com/PatrickFanella/clpr) — Discover and organize Twitch clips through search, playlists, and community curation. Built with Go, React, PostgreSQL, and hybrid search, with background processing and moderation controls.
+- [HasanAra](https://github.com/PatrickFanella/hasanara) — Search video archives and follow timestamped transcript passages back to the original recording. Built with FastAPI, React, GPU-backed transcription, PostgreSQL, and OpenSearch.
+- [Patchwork](https://github.com/PatrickFanella/patchwork) — An early AT Protocol prototype for finding nearby requests and offers and coordinating local help. Explores geospatial discovery, indexing, moderation, and accessible interfaces. **Pre-alpha.**
 
 <details>
 <summary>Product screenshots</summary>
@@ -42,14 +33,19 @@ My public repositories cover product interfaces, backend services, search, media
 
 </details>
 
-### More selected work
+### More projects
 
-- [Clustr](https://github.com/PatrickFanella/clustr) — Community-graph infrastructure with interactive 2D/3D visualization and a Unity exploration client.
-- [Subcult OS](https://github.com/PatrickFanella/subcult-os) — Event operations software in development for planning, staffing, free reservations, door check-in and reporting.
+| Project | What it does | Read more |
+| --- | --- | --- |
+| [Left Field](https://github.com/PatrickFanella/left-field) | Explore seat-level election research with public records and source provenance. **In development; research scores are not forecasts.** | [Architecture](https://github.com/PatrickFanella/left-field/blob/main/ARCHITECTURE.md) · [Development](https://github.com/PatrickFanella/left-field/blob/main/DEVELOPMENT.md) |
+| [Rekolekt](https://github.com/PatrickFanella/rekolekt) | Build self-hosted recording archives with timestamped transcripts, search, and links back to source video. The shared engine behind HasanAra. **Check machine transcripts against recordings before quoting.** | [Deployment](https://github.com/PatrickFanella/rekolekt/blob/main/docs/deployment/client-branding.md) · [Development](https://github.com/PatrickFanella/rekolekt/blob/main/DEVELOPMENT.md) |
+| [Undertow](https://github.com/PatrickFanella/undertow) | Make music visuals by combining audio visualization, artwork, and timed lyrics in a browser editor, then export video locally. **Export support varies by browser and device.** | [Rendering](https://github.com/PatrickFanella/undertow/blob/main/docs/rendering.md) · [Development](https://github.com/PatrickFanella/undertow/blob/main/DEVELOPMENT.md) |
+| [Deadweb Relay](https://github.com/PatrickFanella/deadweb-relay) | Read a small Go website as HTML, plain text, JSON, or feeds. An HTTP and discovery experiment with public notes and append-only storage. | [Implementation](https://github.com/PatrickFanella/deadweb-relay#useful-http-behavior) · [Live site](https://www2.onnwee.me/) |
+
+- [Clustr](https://github.com/PatrickFanella/clustr) — Explore community graphs through interactive 2D/3D visualization and a Unity client.
+- [Subcult OS](https://github.com/PatrickFanella/subcult-os) — Plan events, coordinate staffing, and manage free reservations, door check-in, and reporting. **In development.**
 
 ### Developer tooling
-
-I also build tools for development, music and everyday workflows:
 
 - [Obsidian Metronome + Tuner](https://git.subcult.tv/PatrickFanella/obsidian-plugin-metronome-tuner) — timing and chromatic tuning inside Obsidian.
 - [Omarchy Monitor Bar](https://git.subcult.tv/PatrickFanella/omarchy-monitor-bar) — separate bar layouts for connected monitors.
@@ -58,6 +54,4 @@ I also build tools for development, music and everyday workflows:
 
 **Core stack:** Go · Python · TypeScript · React · PostgreSQL · PostGIS · OpenSearch · Docker · Kubernetes
 
-**Seeking:** Senior Full-Stack Engineer · Backend Engineer · Product Engineer
-
-📍 Chicago, IL · [Portfolio](https://patrickfanella.co) · [LinkedIn](https://www.linkedin.com/in/patrick-fanella/) · [Email](mailto:patrick@subcult.tv)
+Development, issues, and CI live on [SUBCULT Gitea](https://git.subcult.tv/subculture-collective). GitHub hosts public publishing copies of selected repositories.
