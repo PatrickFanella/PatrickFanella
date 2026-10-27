@@ -14,7 +14,7 @@ At DeliverZero, I built inventory, returns, and partner integrations across thre
 
 - [clpr](https://github.com/PatrickFanella/clpr) — Discover and organize Twitch clips through search, playlists, and community curation. Built with Go, React, PostgreSQL, and hybrid search, with background processing and moderation controls.
 - [HasanAra](https://github.com/PatrickFanella/hasanara) — Search video archives and follow timestamped transcript passages back to the original recording. Built with FastAPI, React, GPU-backed transcription, PostgreSQL, and OpenSearch.
-- [Patchwork](https://github.com/PatrickFanella/patchwork) — An early AT Protocol prototype for finding nearby requests and offers and coordinating local help. Explores geospatial discovery, indexing, moderation, and accessible interfaces. **Pre-alpha.**
+- [Headcount](https://github.com/PatrickFanella/headcount) — Collect and analyze Twitch viewer, follower, and chat signals through a bot-signal dashboard. Built with Go, PostgreSQL/TimescaleDB, and statistical scoring. Signals identify unusual activity; they do not prove bot use.
 
 <details>
 <summary>Product screenshots</summary>
@@ -37,20 +37,22 @@ At DeliverZero, I built inventory, returns, and partner integrations across thre
 
 | Project | What it does | Read more |
 | --- | --- | --- |
+| [Patchwork](https://github.com/PatrickFanella/patchwork) | Coordinate local mutual aid through AT Protocol accounts, requests and offers, resource discovery, scheduling, and messaging. | [Project overview](https://github.com/PatrickFanella/patchwork#patchwork) |
 | [Left Field](https://github.com/PatrickFanella/left-field) | Explore seat-level election research with public records and source provenance. **In development; research scores are not forecasts.** | [Architecture](https://github.com/PatrickFanella/left-field/blob/main/ARCHITECTURE.md) · [Development](https://github.com/PatrickFanella/left-field/blob/main/DEVELOPMENT.md) |
 | [Rekolekt](https://github.com/PatrickFanella/rekolekt) | Build self-hosted recording archives with timestamped transcripts, search, and links back to source video. The shared engine behind HasanAra. **Check machine transcripts against recordings before quoting.** | [Deployment](https://github.com/PatrickFanella/rekolekt/blob/main/docs/deployment/client-branding.md) · [Development](https://github.com/PatrickFanella/rekolekt/blob/main/DEVELOPMENT.md) |
 | [Undertow](https://github.com/PatrickFanella/undertow) | Make music visuals by combining audio visualization, artwork, and timed lyrics in a browser editor, then export video locally. **Export support varies by browser and device.** | [Rendering](https://github.com/PatrickFanella/undertow/blob/main/docs/rendering.md) · [Development](https://github.com/PatrickFanella/undertow/blob/main/DEVELOPMENT.md) |
 | [Deadweb Relay](https://github.com/PatrickFanella/deadweb-relay) | Read a small Go website as HTML, plain text, JSON, or feeds. An HTTP and discovery experiment with public notes and append-only storage. | [Implementation](https://github.com/PatrickFanella/deadweb-relay#useful-http-behavior) · [Live site](https://www2.onnwee.me/) |
-
-- [Clustr](https://github.com/PatrickFanella/clustr) — Explore community graphs through interactive 2D/3D visualization and a Unity client.
-- [Subcult OS](https://github.com/PatrickFanella/subcult-os) — Plan events, coordinate staffing, and manage free reservations, door check-in, and reporting. **In development.**
+| [Tadooer](https://github.com/PatrickFanella/tadooer) | Plan tasks beside a calendar, block time, and run focus sessions in a self-hosted single-owner workspace. | [Development](https://github.com/PatrickFanella/tadooer/blob/main/DEVELOPMENT.md) |
+| [Kork](https://github.com/PatrickFanella/kork) | Build link pages for socials, music, media, and tip jars. Payments go directly to connected accounts. | [Project overview](https://github.com/PatrickFanella/kork#readme) |
 
 ### Developer tooling
 
-- [Obsidian Metronome + Tuner](https://git.subcult.tv/PatrickFanella/obsidian-plugin-metronome-tuner) — timing and chromatic tuning inside Obsidian.
-- [Omarchy Monitor Bar](https://git.subcult.tv/PatrickFanella/omarchy-monitor-bar) — separate bar layouts for connected monitors.
-- [Shelfish](https://git.subcult.tv/PatrickFanella/omarchy-plugin-shelfish) — collapsible groups of bar widgets.
-- [Super Productivity bar integration](https://git.subcult.tv/PatrickFanella/omarchy-superproductivity) and [MCP integration](https://git.subcult.tv/PatrickFanella/super-productivity-mcp).
+- [Subsets](https://github.com/PatrickFanella/subsets) — discover agent skills, organize task-specific sets, and preview changes before applying them. **Alpha.**
+- [T3 dev environments](https://github.com/PatrickFanella/t3-dev-environments) — isolated previews and tests scoped to Git worktrees.
+- [codex-skills](https://github.com/PatrickFanella/codex-skills) — maintained agent procedures, catalogs, and guarded deployment tooling.
+- [Obsidian Metronome + Tuner](https://github.com/PatrickFanella/obsidian-plugin-metronome-tuner) — timing and chromatic tuning inside Obsidian.
+- Omarchy integrations: [Monitor Bar](https://github.com/PatrickFanella/omarchy-monitor-bar), [Shelfish](https://github.com/PatrickFanella/omarchy-plugin-shelfish), and [Super Productivity](https://github.com/PatrickFanella/omarchy-superproductivity).
+- [Super Productivity MCP](https://github.com/PatrickFanella/super-productivity-mcp) — local task integration for agent workflows.
 
 **Core stack:** Go · Python · TypeScript · React · PostgreSQL · PostGIS · OpenSearch · Docker · Kubernetes
 
