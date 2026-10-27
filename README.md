@@ -57,3 +57,13 @@ At DeliverZero, I built inventory, returns, and partner integrations across thre
 **Core stack:** Go · Python · TypeScript · React · PostgreSQL · PostGIS · OpenSearch · Docker · Kubernetes
 
 Development, issues, and CI live on [SUBCULT Gitea](https://git.subcult.tv/subculture-collective). GitHub hosts public publishing copies of selected repositories.
+
+## License
+
+Original contributions in this repository are licensed under the GNU General
+Public License, version 3 or (at your option) any later version
+(`GPL-3.0-or-later`). See [LICENSE](LICENSE).
+
+Third-party code, documentation, fonts, data, and other assets retain their own
+licenses, copyright notices, and attribution. This license does not replace
+those terms or grant rights to upstream material that its authors have not granted.
