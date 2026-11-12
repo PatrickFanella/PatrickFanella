@@ -16,8 +16,6 @@ At DeliverZero, I built inventory, returns, and partner integrations across thre
 
 - **[clpr](https://github.com/subculture-collective/clpr)**: find Twitch clips by creator, topic and tag, and keep playlists to share. Go, React, PostgreSQL and hybrid search. [clpr.tv](https://clpr.tv)
 - **[HasanAra](https://github.com/subculture-collective/hasanara)** on **[Rekolekt](https://github.com/subculture-collective/rekolekt)**: search years of broadcasts by phrase and open each result at its timestamp. FastAPI, React, GPU transcription, PostgreSQL and OpenSearch. Transcripts are automatic, so check the recording before quoting. [hasanara.tv](https://hasanara.tv)
-- **[Headcount](https://github.com/subculture-collective/headcount)**: scores the Twitch top 200 for bot-like viewer and chat patterns. Go, TimescaleDB and statistical scoring. A signal, not proof. [headcount.subcult.tv](https://headcount.subcult.tv/)
-- **[Undertow](https://github.com/subculture-collective/undertow)**: a layered music visualizer with timed lyrics that exports MP4 in the browser. [undertow.subcult.tv](https://undertow.subcult.tv)
 
 <details>
 <summary>Product screenshots</summary>
@@ -25,10 +23,6 @@ At DeliverZero, I built inventory, returns, and partner integrations across thre
 **clpr: clip discovery**
 
 ![clpr clip discovery interface](https://subcult.tv/screenshots/clpr-home-1440.webp)
-
-**Undertow: layered music editor**
-
-![Undertow layered music editor](https://subcult.tv/screenshots/undertow-editor-1440.webp)
 
 **HasanAra: a Rekolekt archive**
 
@@ -53,13 +47,11 @@ At DeliverZero, I built inventory, returns, and partner integrations across thre
 - **[Commons](https://github.com/subculture-collective/commons)**: a hub for finding and building open alternatives to familiar software. [commons.subcult.tv](https://commons.subcult.tv/)
 - **[Roberts Rules](https://github.com/subculture-collective/roberts-rules)**: a simulator and live floor for chair-led parliamentary meetings. Early stage.
 - **[dsa-signal](https://github.com/subculture-collective/dsa-signal)**: members-only encrypted chat on a private Matrix server. In development.
-- **[The Common House](https://github.com/subculture-collective/the-common-house)**: a narrative investigation game set at a radio outpost. Early prototype.
 - **[Mantik](https://github.com/subculture-collective/mantik)**: a terminal-first paper-trading research system with synthetic demo data.
-- **[Deadweb Relay](https://github.com/subculture-collective/deadweb-relay)**: an old-web homepage with writable notes and feeds, plus a [log observatory](https://github.com/subculture-collective/www2-observatory). [www2.onnwee.me](https://www2.onnwee.me/)
 
 ### Archives
 
-[Chicago Labor Archive](https://github.com/subculture-collective/chicago-labor-archive) · [Riot Grrrl Zine Archive](https://github.com/subculture-collective/arkhiv-riot-grrrl) · [Anarchist Archive](https://github.com/subculture-collective/arkhiv-anarchist) · [Lineage](https://github.com/subculture-collective/lineage) · [Dedhed](https://github.com/subculture-collective/dedhed) · [Democracy Now! archive](https://github.com/subculture-collective/democracy-now-tv) · [Bill Nye TV](https://github.com/subculture-collective/bill-nye-tv) · [Byl](https://github.com/subculture-collective/byl) · [assmold](https://github.com/subculture-collective/assmold): searchable, sourced archives of zines, tapes, broadcasts and local history.
+[Lineage](https://github.com/subculture-collective/lineage) · [Dedhed](https://github.com/subculture-collective/dedhed) · [Byl](https://github.com/subculture-collective/byl) · [assmold](https://github.com/subculture-collective/assmold): searchable, sourced archives of zines, tapes, broadcasts and local history.
 
 ### Developer tools
 
@@ -68,11 +60,11 @@ At DeliverZero, I built inventory, returns, and partner integrations across thre
 - **[Generic Skills](https://github.com/subculture-collective/generic-skills)** and **[patstack](https://github.com/subculture-collective/patstack)**: portable skills for coding agents.
 - **[super-productivity-mcp](https://github.com/subculture-collective/super-productivity-mcp)**: connects AI clients to Super Productivity.
 - **[Pirs](https://github.com/subculture-collective/pirs)**: experimental plugin hooks for an AT Protocol PDS.
-- Stream and video tools: [Overlaid](https://github.com/subculture-collective/overlaid), [vod-tender](https://github.com/subculture-collective/vod-tender), [twitchdl](https://github.com/subculture-collective/twitchdl), [ytclip](https://github.com/subculture-collective/ytclip), [aski](https://github.com/subculture-collective/aski).
+- Stream and video tools: [Overlaid](https://github.com/subculture-collective/overlaid), [vod-tender](https://github.com/subculture-collective/vod-tender), [twitchdl](https://github.com/subculture-collective/twitchdl), [ytclip](https://github.com/subculture-collective/ytclip).
 
 ### Desktop and hardware
 
-[Subarchy](https://github.com/subculture-collective/subarchy) (Arch desktop distribution, in development) · [Pult](https://github.com/subculture-collective/pult) (terminal theming) · [fl-live](https://github.com/subculture-collective/fl-live) (Linux music workstation) · [tmux-popups](https://github.com/subculture-collective/tmux-popups) · Omarchy plugins: [Monitor Bar](https://github.com/subculture-collective/omarchy-monitor-bar), [Shelfish](https://github.com/subculture-collective/omarchy-plugin-shelfish), [Spool](https://github.com/subculture-collective/omarchy-plugin-spool), [Super Productivity](https://github.com/subculture-collective/omarchy-superproductivity), [TOZO HT3](https://github.com/subculture-collective/omarchy-plugin-ht3) · [Metronome + Tuner for Obsidian](https://github.com/subculture-collective/obsidian-plugin-metronome-tuner) · [Room Scanner](https://github.com/subculture-collective/room-scanner) (LiDAR floor plans) · [TD-H3 Plus Tools](https://github.com/subculture-collective/td-h3-plus-tools)
+[fl-live](https://github.com/subculture-collective/fl-live) (Linux music workstation) · [tmux-popups](https://github.com/subculture-collective/tmux-popups) · Omarchy plugins: [Monitor Bar](https://github.com/subculture-collective/omarchy-monitor-bar), [Shelfish](https://github.com/subculture-collective/omarchy-plugin-shelfish), [Spool](https://github.com/subculture-collective/omarchy-plugin-spool), [Super Productivity](https://github.com/subculture-collective/omarchy-superproductivity), [TOZO HT3](https://github.com/subculture-collective/omarchy-plugin-ht3) · [Metronome + Tuner for Obsidian](https://github.com/subculture-collective/obsidian-plugin-metronome-tuner) · [Room Scanner](https://github.com/subculture-collective/room-scanner) (LiDAR floor plans) · [TD-H3 Plus Tools](https://github.com/subculture-collective/td-h3-plus-tools)
 
 ## License
 
