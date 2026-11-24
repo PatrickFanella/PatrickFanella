@@ -1,4 +1,4 @@
-[![Patrick__eff — Software. Sound. Culture.](assets/banner.png)](https://patrickfanella.co)
+[![Patrick__eff — Software. Sound. Culture.](assets/banner-tall-master.png)](https://patrickfanella.co)
 
 # Patrick Fanella / Patrick__eff
 
